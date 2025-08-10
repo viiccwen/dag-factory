@@ -28,7 +28,6 @@ MIN_VER_DAG_FILE_VER: dict[str, list[str]] = {
     ],
     "2.7": ["example_timetable_schedule.py"],
     "2.9": ["example_map_index_template.py", "example_object_storage.py"],
-    "3.0": ["example_timetable_schedule.py"],
 }
 
 MAX_VER_DAG_FILE_VER: dict[str, list[str]] = {
